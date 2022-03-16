@@ -1,0 +1,4 @@
+body{
+    background-color: black;
+    background-image: radial-gradient(farthest-side at 0 0,rgba(255,26,198,.3),rgba(255,26,198,0)),radial-gradient(farthest-side at 100% 0,rgba(60,221,221,.4),rgba(60,221,221,0)),radial-gradient(farthest-side at 50% 0,rgba(255,26,198,.1),rgba(255,26,198,0));
+ }
